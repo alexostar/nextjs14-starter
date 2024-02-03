@@ -1,6 +1,6 @@
 ## About this starter
 
-Created from scratch:
+Create from scratch:
 
 ```
 npx create-nextjs-app@latest // default choices
@@ -34,12 +34,3 @@ OBS: The correct client is also created by the next command
 npx prisma db push // Create the database
 npx prisma studio // Manage the database
 ```
-
-The following is not included yet:
-
-```
-npx shadcn-ui@latest add form
-npm install next-auth
-```
-
-For the next-auth, add the necessary environment variables.
